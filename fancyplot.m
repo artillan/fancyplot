@@ -1,0 +1,3 @@
+% plottype
+% plotfontsize
+% setgraph
